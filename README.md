@@ -19,7 +19,7 @@ A sleek and responsive weather dashboard built with **React**, **Vite**, and **T
 - **Deployment:** Vercel
 
 ## 📸 Preview
-
+![Project Screenshot](./klimatescrn.png)
 
 
 ## ⚙️ Installation
